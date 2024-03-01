@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Daniel, I am a Machine Learning engineer interested in all things in the NLP & RL world!
 
-- 🔭 I’m currently working on LLM based on distilbert-base-uncased.
+- 🔭 I’m currently working on LLM based on BERT.
 - 🌱 I’m currently learning more about reinforcement learning ([here](https://github.com/danlagos/atari-games-q-network.git)), and the new MAMBA algorithm.
 - 📫 How to reach me: my linkedin profile - ([here](https://www.linkedin.com/in/d-lagos/))
 
