@@ -3,7 +3,7 @@ My name is Daniel, I am a Machine Learning engineer interested in all things in 
 
 - 🔭 I’m currently working on LLM based on distilbert-base-uncased.
 - 🌱 I’m currently learning more about reinforcement learning ([here](https://github.com/danlagos/atari-games-q-network.git)), and the new MAMBA algorithm.
-- 📫 How to reach me: my linkedin profile - www.linkedin.com/in/d-lagos/
+- 📫 How to reach me: my linkedin profile - ([here](https://www.linkedin.com/in/d-lagos/))
 
 <!--
 **danlagos/danlagos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
