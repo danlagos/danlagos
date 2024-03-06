@@ -24,6 +24,9 @@ I need to somehow get someone a good repo that shows an NLP algorithm
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
+LANDING PAGE TEMPLATE:  https://github.com/Test-MyDFIR/Test-MyDFIR/blob/main/README.md
+Project Page Template:  https://github.com/Test-MyDFIR/Detection-Lab/blob/main/README.md
+
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
