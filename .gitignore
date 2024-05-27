@@ -1,0 +1,30 @@
+# Ignore node_modules if using Node.js
+node_modules/
+
+# Ignore build directories
+build/
+dist/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.sublime-*
+
+# Ignore compiled code (add specific patterns as needed)
+*.o
+*.out
+*.class
+
+# Specific ignores for this project
+danlagos/documents/
+danlagos/utility-pages/
+danlagos/images/
+danlagos/fonts/
